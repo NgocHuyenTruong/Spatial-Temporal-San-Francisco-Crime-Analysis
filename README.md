@@ -4,7 +4,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Identify crime **hotspots**
 - Analyze **temporal patterns** and trends
@@ -14,7 +14,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [GeoDa Data and Lab](https://geodacenter.github.io/data-and-lab/)
 - **Timeframe:** July 1, 2012 – December 31, 2012
@@ -23,7 +23,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Programming Language:** Python
 - **Libraries:**
@@ -35,7 +35,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Merged shapefiles into a single GeoDataFrame
@@ -62,7 +62,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 🚀 Results & Insights
+## Results & Insights
 
 - **High Prevalence of Vandalism Incidents**: Vandalism emerged as the most frequent crime category (3,897 cases), followed by Vehicle Theft and Robbery. Most cases (8,018) had no resolution, while “Arrest, Booked” (1,682) was the most common actionable outcome.
 
@@ -76,7 +76,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 📌 Future Work
+## Future Work
 
 - Include more recent datasets for trend validation
 - Apply deep learning models for better predictions
@@ -84,7 +84,7 @@ This repository contains a comprehensive spatial and temporal analysis of crime 
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 To run this project:
 
@@ -94,7 +94,7 @@ To run this project:
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - I would like to acknowledge the collaborative efforts of my team members, **Ngoc Anh Nguyen** and **Thanh Dung Nguyen**, in completing this project.
 - GeoDa Center for Spatial Data Science
